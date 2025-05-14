@@ -26,6 +26,17 @@ const robotoMono = Roboto_Mono({
 export const metadata: Metadata = {
   title: "Francesco Frediani - Portfolio",
   description: "Portfolio personale di Francesco Frediani, studente di informatica a Pisa",
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/apple-icon.png',
+    other: {
+      rel: 'icon',
+      url: '/favicon.svg',
+      type: 'image/svg+xml',
+    },
+  },
+  manifest: '/manifest.json',
 };
 
 export default function RootLayout({

@@ -1,0 +1,19 @@
+{
+  "name": "Francesco Frediani - Web Developer",
+  "short_name": "FF Dev",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0074e4",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
